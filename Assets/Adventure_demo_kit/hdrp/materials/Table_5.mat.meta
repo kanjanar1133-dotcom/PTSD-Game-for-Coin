@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d815bd44d2c3076458d484270d295590
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/hdrp/materials/Table_5.mat
+  uploadId: 782795

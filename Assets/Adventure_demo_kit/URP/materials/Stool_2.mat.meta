@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52dd40a3207ff1e4f964095e22264493
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/URP/materials/Stool_2.mat
+  uploadId: 782795

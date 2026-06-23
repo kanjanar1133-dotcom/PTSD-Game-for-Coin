@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 339d8203edcb6e6488914e5e0d3a774a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/scenes/built_in_Profiles/Global Volume Profile.asset
+  uploadId: 782795

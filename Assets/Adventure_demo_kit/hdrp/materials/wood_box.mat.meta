@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d181a20ee6884d4e863b738ef36e64b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/hdrp/materials/wood_box.mat
+  uploadId: 782795

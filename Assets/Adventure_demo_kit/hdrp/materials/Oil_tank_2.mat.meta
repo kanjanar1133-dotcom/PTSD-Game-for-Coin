@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb23faef7616d1845af8d019636d4985
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/hdrp/materials/Oil_tank_2.mat
+  uploadId: 782795

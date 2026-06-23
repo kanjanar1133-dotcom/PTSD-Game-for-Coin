@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0fb23d64aa04b9428d75d3b3c9c0fc7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/URP/prefebs/wooden_box.prefab
+  uploadId: 782795

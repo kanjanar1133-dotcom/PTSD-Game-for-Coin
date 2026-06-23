@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f99093a73dd3204292235c0f35f76fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/hdrp/white.mat
+  uploadId: 782795

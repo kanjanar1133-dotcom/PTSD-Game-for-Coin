@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5de808ae3c2282c46af4503d694a08cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/URP/materials/Oil_tank_2.mat
+  uploadId: 782795

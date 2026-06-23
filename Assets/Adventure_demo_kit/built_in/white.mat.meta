@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5350f0c6526e08b43a4ed1bb7a3de990
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/built_in/white.mat
+  uploadId: 782795

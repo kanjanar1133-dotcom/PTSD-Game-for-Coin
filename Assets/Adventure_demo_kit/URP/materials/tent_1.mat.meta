@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f895de5e68b43e445a7068a3bb521339
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/URP/materials/tent_1.mat
+  uploadId: 782795

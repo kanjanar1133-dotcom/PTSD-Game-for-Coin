@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c9ff1762eb1f1144845f1e1c279b829
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330860
+  packageName: Adventure demo kit
+  packageVersion: 1.0
+  assetPath: Assets/Adventure_demo_kit/hdrp/materials/knife.mat
+  uploadId: 782795
